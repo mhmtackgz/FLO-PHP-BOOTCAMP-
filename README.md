@@ -1,6 +1,1 @@
-<table border="1">
- <th>
-![image](https://user-images.githubusercontent.com/102829820/202924432-f7d7d4a0-688e-45e4-8761-62e7381cde25.png)
- </th>
-  
-  </table>
+<div>![image](https://user-images.githubusercontent.com/102829820/202924466-2775e1c2-a3f6-4aa5-ac96-f22178230ee3.png)</div>
