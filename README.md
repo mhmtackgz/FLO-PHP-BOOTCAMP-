@@ -1,8 +1,8 @@
 <table border=1>
 <td>
   <th>
-     <b>PHP BOOTCAMP ÖDEVLER</b>
-     ![image](https://user-images.githubusercontent.com/102829820/202923634-94ace95d-631e-430b-b4ca-0149b507d08b.png)
+![image](https://user-images.githubusercontent.com/102829820/202923701-30b27a68-3024-422d-b821-bbffefc985a9.png)
+
 
   </th>
 </tr>
