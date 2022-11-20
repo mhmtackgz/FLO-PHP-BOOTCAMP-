@@ -1,2 +1,2 @@
 
-<p align="center">PHP BOOTCAMP FLO </p>
+<p align="center" color="orange">PHP BOOTCAMP FLO </p>
