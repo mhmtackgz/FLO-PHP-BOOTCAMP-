@@ -1,2 +1,1 @@
-# bootcamp1
-bootcampodev1
+BOOTCAMP ÖDEVLER
