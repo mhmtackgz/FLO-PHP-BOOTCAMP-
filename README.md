@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/102829820/202924965-382ea24a-9808-4f14-8ef6-38b3165e6d8a.png)
 ![image](https://user-images.githubusercontent.com/102829820/202925038-2fda2aa9-cb00-4450-b48f-35bd74ae6d83.png)
- <p color="orange" align="center">FLO PHP BOOTCAMP<p> 
- <h1 style="background-color:powderblue;">This is a heading</h1>
+ <h1 style="background-color:powderblue;">FLO PHP BOOTCAMP</h1>
 
