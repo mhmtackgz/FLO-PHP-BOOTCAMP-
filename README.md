@@ -1,6 +1,6 @@
 <table border=1>
-<tr>
-<b>PHP BOOTCAMP ÖDEVLER</b>
+<td>
+  <th><b>PHP BOOTCAMP ÖDEVLER</b></th>
 </tr>
 
 <table>
