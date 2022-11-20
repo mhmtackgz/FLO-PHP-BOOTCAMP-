@@ -1,11 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
 </head>
-<body
-    <p align="center">PHP BOOTCAMP </p>   
- 
+<body>
+
+
+<table border="1" >
+    <th>
+        <img src="phplogo">
+    </th>
+    <th>
+        <b><p align="center">PHP BOOTCAMP DEVELOPER</p><b>
+    </th>
+   
+
+</table>
     
 </body>
 </html>
