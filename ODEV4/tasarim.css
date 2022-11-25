@@ -1,0 +1,72 @@
+.button {
+    background-color:bisque ;
+    padding: 10px 15px;
+    border-radius: 50px;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: -10px;
+    text-decoration: none;
+  }
+
+div 
+{
+background-image: url(img/bg.jpg);
+border-radius: 25px;
+border: 2px solid cornflowerblue;
+}
+
+
+.button p 
+{
+font-size: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+margin: center;
+}
+  
+.p:hover
+{
+color: black;
+}
+
+.textboxcolor[type=text] 
+{
+border: 2px solid red;
+border-radius: 4px;  
+}
+  
+.paragraf:hover 
+{
+margin-left: 60px;
+margin-right: 60px;
+display:flexbox;
+color: red; 
+}
+.boyutver{
+    width: 50px;
+    height: 50px;
+}
+.a {
+  border-radius: 25px;
+}
+.p {
+  text-decoration: none;
+}
+
+.th {
+  background-color: #04AA6D;
+  color: white;
+
+}
+table, th, td {
+  border: 2px double black;
+  background-color: aliceblue;
+  color: black;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
