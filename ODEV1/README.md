@@ -1,9 +1,7 @@
-![images (2)](https://user-images.githubusercontent.com/102829820/202928848-613c626c-d2ca-4b33-b897-a71c4d41dbce.gif)
 <center>
-MySQL veritabanı ile uygulamış olduğum bir projemi size sunmak istiyorum.
-Tasarlanmış olan form sayfası üzerinden kullanıcı bilgileri alınır, alınan bu verileri veritabanına eklemek için ekle butonuna basılır ve veritabanına kaydolmuş olur
-if else kontrolü ile textbox'ın boş olup olmadığı kontrol edilir.
-Kayıtları Göster butonu ile kaydolmuş veriler gösterilir.
-Listelenen verileri silmek için işlem sütünundan sil kısmına basılarak istenilen veri silinir.
- 
-</b></center>
+ <p>Diziden alınan ağıl sayısı toplam koyun sayısı ve ağıl kapasitesine göre koyunları yerleştiren program.</p>
+[hafta1resim1](https://user-images.githubusercontent.com/102829820/204026231-f030ba30-3ee5-458c-9c06-7348fb30e838.png)
+<p>Bir dizi değişkeni içinden alınan veriler</p>
+![hafta1resim2](https://user-images.githubusercontent.com/102829820/204026298-7722e655-cac1-4117-9463-0ed175fa726c.png)
+ <p>Program Çıktısı</p>
+</center>
