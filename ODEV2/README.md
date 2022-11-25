@@ -1,9 +1,4 @@
-![images (2)](https://user-images.githubusercontent.com/102829820/202928848-613c626c-d2ca-4b33-b897-a71c4d41dbce.gif)
-<center>
-MySQL veritabanı ile uygulamış olduğum bir projemi size sunmak istiyorum.
-Tasarlanmış olan form sayfası üzerinden kullanıcı bilgileri alınır, alınan bu verileri veritabanına eklemek için ekle butonuna basılır ve veritabanına kaydolmuş olur
-if else kontrolü ile textbox'ın boş olup olmadığı kontrol edilir.
-Kayıtları Göster butonu ile kaydolmuş veriler gösterilir.
-Listelenen verileri silmek için işlem sütünundan sil kısmına basılarak istenilen veri silinir.
- 
-</b></center>
+
+![723z27](https://user-images.githubusercontent.com/102829820/204030021-5972c32c-f8a7-478b-8a85-20c74f18a5ee.gif)
+Ürünleri sepete ekleyip , belirlenen ürünlerden kaç tane alınıp fiyat tutarının toplam ne kadar olduğunu gösteren,
+Sepeti komple boşaltmanızı sağlayan bir php uygulaması.
