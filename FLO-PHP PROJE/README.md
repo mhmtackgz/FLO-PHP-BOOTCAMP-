@@ -20,3 +20,8 @@
    <li><p>Eğer girilen veri bir url tipiyse linki kısalt butonuna basıldığı an bu verileri (texboxt'dan gelen url , kısaltılmış url ) veritabanına kaydeder.</li>
     <li></p>Yetkili kişi giriş yapması adına admin girişi butonu eklendi. Yetkili kişi, (admin)  giriş yapmak istediği an admin sayfasına atarak giriş yapabilir</li> 
     </ul>
+   
+
+![login](https://user-images.githubusercontent.com/102829820/205366865-68c3d047-46aa-40d1-b712-6a19206f739a.png)
+   <b>Admin Paneli<b>
+
