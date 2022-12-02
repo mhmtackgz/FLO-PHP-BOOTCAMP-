@@ -41,8 +41,7 @@
       <ul>
        <li>Url kısmında kelime geçen dizeleri arayıp getirir.</li>
       </ul>
-      
-      <ul><li>Program Videosu</li></ul>
+     
    https://user-images.githubusercontent.com/102829820/205373740-f1738138-bde1-4ffe-bda5-133426e9dc94.mp4
 
 
