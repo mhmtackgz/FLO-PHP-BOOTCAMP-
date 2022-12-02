@@ -23,9 +23,13 @@
    
 
 ![login](https://user-images.githubusercontent.com/102829820/205366865-68c3d047-46aa-40d1-b712-6a19206f739a.png)
-   <b>Admin Paneli<b>
+   <b>Admin Paneli Giriş Ekranı<b>
     <ul>
      <li>Kullanıcı Adı ve Şifre Kontrolü sağlanarak veritabanı üzerinden oluşturulmuş belirli kullanıcıların girişi sağlanır.</li>
      <li>Bu yetkili kişiler veriler hakkında silme görüntüleme ve çıktı alma gibi haklara sahiptir</li>
     </ul>
-
+![adminindex](https://user-images.githubusercontent.com/102829820/205367722-42f0fcb4-9a03-49ab-b28b-5c66ba4b65d2.png)
+    <b>Admin Sayfası</b>
+    <ul>
+     <li>Bu sayfada ise Verileri Ara , Verileri Listele , Veriyi Silme  ve Yazdırma gibi işlemler Yapılabilir</li>
+    </ul>
