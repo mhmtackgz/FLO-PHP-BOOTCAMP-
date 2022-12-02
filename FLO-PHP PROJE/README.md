@@ -14,7 +14,7 @@
  
   
   <h3>Program İçeriği<h3>
-   https://user-images.githubusercontent.com/102829820/205369892-3305aa52-88d5-4aae-aa69-8d821d912942.mp4
+   https://user-images.githubusercontent.com/102829820/205369892-3305aa52-88d5-4aae-aa69-8d821d912942.mp4 <br>
    <b>Kullanıcının Kullandığı Sayfa</b>
    <ul>
    <li><p>Texboxt'a girilecek olan verinin kontrolü sağlanır öncelikle, girilen veri tipi bir url ise girilen linki bir random sayıya veya rakam bloğuna çevirir.<p</li>
