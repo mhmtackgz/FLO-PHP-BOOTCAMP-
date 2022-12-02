@@ -38,4 +38,8 @@
     </ul>
     <h3>Program Tanıtım Videosu <h3>
      
+
+https://user-images.githubusercontent.com/102829820/205371912-983e379a-9ac1-46e1-8328-8b38ab946511.mp4
+
+
      
