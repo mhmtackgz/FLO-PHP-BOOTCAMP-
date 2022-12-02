@@ -37,6 +37,12 @@
       <hr color='black'>
     </ul>
     <h3>Program Tanıtım Videosu <h3>
+     <h3>Veri Arama<h3>
+      ![ara](https://user-images.githubusercontent.com/102829820/205373146-da078f7d-4797-4a3e-ae3c-c99f93ed5921.png)
+
+      <ul>
+       <li>Url kısmında kelime geçen dizeleri arayıp getirir.</li>
+      </ul>
      
 
 https://user-images.githubusercontent.com/102829820/205371912-983e379a-9ac1-46e1-8328-8b38ab946511.mp4
