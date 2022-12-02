@@ -12,5 +12,7 @@
   </ul>
   
   <h3>Program İçeri<h3>
-   <b>Kullanıcının Kullandığı Sayfa</b>:
-![index1](https://user-images.githubusercontent.com/102829820/205365661-29112bcd-8f91-45cc-b9f3-812788288d0e.png)
+   
+   ![index1](https://user-images.githubusercontent.com/102829820/205365661-29112bcd-8f91-45cc-b9f3-812788288d0e.png)
+   <b>Kullanıcının Kullandığı Sayfa</b>
+
