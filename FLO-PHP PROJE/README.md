@@ -13,6 +13,9 @@
   </ul>
  
   <h3>Program İçeriği<h3>
+  ![index1](https://user-images.githubusercontent.com/102829820/205371521-6dfa89b4-b8ab-425c-83a9-a5a03611cee4.png)
+
+    https://user-images.githubusercontent.com/102829820/205369892-3305aa52-88d5-4aae-aa69-8d821d912942.mp4  
    <b>Kullanıcının Kullandığı Sayfa</b>
    <ul>
    <li><p>Texboxt'a girilecek olan verinin kontrolü sağlanır öncelikle, girilen veri tipi bir url ise girilen linki bir random sayıya veya rakam bloğuna çevirir.<p</li>
@@ -20,7 +23,7 @@
  <li></p>Yetkili kişi giriş yapması adına admin girişi butonu eklendi. Yetkili kişi, (admin)  giriş yapmak istediği an admin sayfasına atarak giriş yapabilir</li> 
  <hr color='black'>    
    </ul>
-  https://user-images.githubusercontent.com/102829820/205369892-3305aa52-88d5-4aae-aa69-8d821d912942.mp4    
+  
 
 ![login](https://user-images.githubusercontent.com/102829820/205366865-68c3d047-46aa-40d1-b712-6a19206f739a.png)
    <b>Admin Paneli Giriş Ekranı<b>
