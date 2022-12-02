@@ -14,10 +14,11 @@
  
   
   <h3>Program İçeriği<h3>
-   
-   ![index1](https://user-images.githubusercontent.com/102829820/205365661-29112bcd-8f91-45cc-b9f3-812788288d0e.png)
+    ![index1](https://user-images.githubusercontent.com/102829820/205365661-29112bcd-8f91-45cc-b9f3-812788288d0e.png)
+   https://user-images.githubusercontent.com/102829820/205369892-3305aa52-88d5-4aae-aa69-8d821d912942.mp4
+  
    <b>Kullanıcının Kullandığı Sayfa</b>
-https://user-images.githubusercontent.com/102829820/205369892-3305aa52-88d5-4aae-aa69-8d821d912942.mp4
+
    <ul>
    <li><p>Texboxt'a girilecek olan verinin kontrolü sağlanır öncelikle, girilen veri tipi bir url ise girilen linki bir random sayıya veya rakam bloğuna çevirir.<p</li>
    <li><p>Eğer girilen veri bir url tipiyse linki kısalt butonuna basıldığı an bu verileri (texboxt'dan gelen url , kısaltılmış url ) veritabanına kaydeder.</li>
