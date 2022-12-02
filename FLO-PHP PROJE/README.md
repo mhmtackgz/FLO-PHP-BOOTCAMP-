@@ -24,4 +24,8 @@
 
 ![login](https://user-images.githubusercontent.com/102829820/205366865-68c3d047-46aa-40d1-b712-6a19206f739a.png)
    <b>Admin Paneli<b>
+    <ul>
+     <li>Kullanıcı Adı ve Şifre Kontrolü sağlanarak veritabanı üzerinden oluşturulmuş belirli kullanıcıların girişi sağlanır.</li>
+     <li>Bu yetkili kişiler veriler hakkında silme görüntüleme ve çıktı alma gibi haklara sahiptir</li>
+    </ul>
 
